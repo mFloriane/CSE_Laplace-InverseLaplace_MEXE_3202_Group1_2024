@@ -15,4 +15,4 @@ pretty(F2)
 
 f3 = (t + 1)*(t + 2)
 F3 = laplace(f3)
-pretty(F4)
+pretty(F3)
